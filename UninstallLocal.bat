@@ -1,0 +1,1 @@
+Powershell -ExecutionPolicy ByPass -file O365Uninstall.ps1

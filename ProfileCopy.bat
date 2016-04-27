@@ -1,0 +1,2 @@
+for /D %%f in ("C:\Users\*") do copy "C:\Masters\DriveShortcuts\CustomScript.lnk" "%%f\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
+for /D %%f in ("C:\Users\*") do copy "C:\Masters\DriveShortcuts\RemoveOfficePins.lnk" "%%f\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
