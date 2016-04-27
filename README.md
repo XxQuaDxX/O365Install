@@ -15,7 +15,8 @@ Included Steps:
 8. Replaces shortcuts that were removed during step 1. Also creates a directory and copies the shortcuts into it since previous had that feature and this ap does not.
 
 
-I suggest you download and implement:
+Suggested tools to download and implement:
 ============
 1. Windows 10 Admin Templates - https://www.microsoft.com/en-us/download/details.aspx?id=48257
 2. Office 365 Admin Templates - https://www.microsoft.com/en-us/download/details.aspx?id=49030
+3. Office 365 Deployment Toolkit - https://www.microsoft.com/en-us/download/details.aspx?id=49117
